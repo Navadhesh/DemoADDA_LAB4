@@ -1,0 +1,5 @@
+git init - creates a new local repository
+git clone <repository> - cloning an exisitng file
+git status - shows current status
+git add . - adds all current chnages
+git push, git pull goes on ...
